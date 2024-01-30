@@ -16,7 +16,7 @@ pip install scipy numpy matplotlib
 ```
 
 ## Features
-- Load and analyze data from MATLAB `.mat` files, with various examples available in the samples folder.
+- Load and analyze data from MATLAB `.mat` files, with various examples available for testing.
 - Plot signal samples with respect to time.
 - Calculate ensemble mean and autocorrelation of signals.
 - Determine time mean and power spectral density of signals.
